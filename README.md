@@ -1,0 +1,2 @@
+# Arithmetic-Calculator-using-Verilog
+A 4 bit ALU which performs mathematical operations viz. addition, subtraction, and multiplication was designed using Verilog hardware description language (HDL). Dataflow as well as Structural modeling style was used for the implementation. The synthesis of the design was performed using Quartus software and Modelsim-Altera was used for the simulation of the design
